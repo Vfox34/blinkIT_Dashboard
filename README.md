@@ -30,3 +30,5 @@ Average Rating: 3.9 stars
 5) Outlet Location and Type: Sales distribution across Tier 1, Tier 2, and Tier 3 cities shows that Tier 3 cities contribute the most, with $0.31M in sales. The dashboard also includes a breakdown of sales, average sales, number of items, and average ratings across different outlet types like Grocery Stores and various types of Supermarkets. The sales are most significant in Medium-sized outlets, contributing $507.9K to total sales.
 
 ## Dashboard
+
+![Blinkit Dashboard_bi](https://github.com/user-attachments/assets/3b486989-d225-4e6c-a832-fbb8c900e423)
